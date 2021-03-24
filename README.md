@@ -1,10 +1,11 @@
 ### Hi there 👋
+[![github stats](https://github-readme-stats.vercel.app/api?username=Muxxs)](https://github.com/muxxs)
+
 
 <!--
 **Muxxs/Muxxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Muxxs)](https://github.com/muxxs)
 
 Here are some ideas to get you started:
 
